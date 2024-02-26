@@ -1182,6 +1182,10 @@ footer .footer-copyright p a {
 
     /* __________________________________________________________REPRESENTANTES_________________________________________________________________ */
 
+    body {
+        font-size: large;
+    }
+
     .error-main h1 {
         font-size: 40px;
     }
